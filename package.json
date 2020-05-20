@@ -1,0 +1,24 @@
+{
+  "name": "virtuous",
+  "version": "1.0.0",
+  "description": "study node",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CirclesAround/studyNode.git"
+  },
+  "keywords": [
+    "Virtuous0925"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CirclesAround/studyNode/issues"
+  },
+  "homepage": "https://github.com/CirclesAround/studyNode#readme"
+}
